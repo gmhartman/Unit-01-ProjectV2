@@ -54,7 +54,7 @@
   
   header {
     text-align: center;
-    background: url('images/neyland.jpg') no-repeat top center ;
+    background: url('../images/neyland.jpg') no-repeat top center ;
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
@@ -151,10 +151,10 @@
   }
   
   a.linkedin {
-    background-image: url(images/linkedin.svg);
+    background-image: url(../images/linkedin.svg);
   }
   a.github {
-    background-image: url(images/github.svg);
+    background-image: url(../images/github.svg);
   }
   a.social:hover {
     opacity: 1;
